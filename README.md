@@ -41,7 +41,7 @@ This project demonstrates a KYC-compliant contract system that integrates with t
 
 ### 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/username/kyc-nft-token.git
+   git clone https://github.com/KennyLuo0401/KYCGuard
    cd kyc-nft-token
 
  ### 2. **Compile and Deploy the Contracts:**
